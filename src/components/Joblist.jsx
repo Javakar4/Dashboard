@@ -2,7 +2,7 @@ import React from 'react';
 import JobCard from './Card';
 import AMAZON from '../assets/amazon.png'
 import TESLA from '../assets/tesla.png'
-import Swiggy from '../assets/Swiggy.png'
+import Swiggy from '../assets/swiggy.png'
 import './JobList.css'
 
 const jobs = [
